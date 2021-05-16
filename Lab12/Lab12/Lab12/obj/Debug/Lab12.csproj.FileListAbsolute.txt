@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\User\Desktop\system modeling\Lab12\Lab12\obj\Debug\Lab12.pdb
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\uzimane_\Desktop\immod\Lab12\Lab12\Lab12\obj\Debug\Lab12.pdb
